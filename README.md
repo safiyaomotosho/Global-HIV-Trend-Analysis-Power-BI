@@ -4,6 +4,10 @@
 
 This Power BI project analyzes global HIV trends, treatment coverage, mortality risk, and regional disparities. The dashboard provides an interactive view of HIV-related indicators across countries, continents, and years, helping identify patterns in disease burden and treatment access.
 
+## Dashboard Preview
+
+![Global HIV Trend Analysis Dashboard](Global%20HIV%20Trend%20Analysis%20Screenshot.png)
+
 ## Project Objectives
 
 The analysis was developed to:
